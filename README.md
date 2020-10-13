@@ -3,6 +3,8 @@ This is Aleatory a random file numbers generator.
 it gives a random integer or float to the terminal.
 Or it could make a csv, json or excel file full of random integers or floats.
 
+Warning: must have pandas,openpyxl and random libraries from python installed 
+
 It's use this way:
 
 python3 --n --i <minimum> <maximum> this display a random integer bweteen minimum and maximum (both of them must be integers) including them
